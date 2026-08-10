@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: igry-kazino-na-dengi.github.io
+Sitemap: https://igry-kazino-na-dengi.github.io/sitemap.xml
